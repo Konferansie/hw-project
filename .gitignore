@@ -1,0 +1,13 @@
+/.idea
+/nbproject
+/vendor
+/.vagrant
+/Vagrantfile
+/wp-config.php
+/wp-content/uploads
+/wp-content/debug.log
+/wp-content/plugins/school-list-sync/tmp/
+!wp-content/plugins/school-list-sync/tmp/.gitkeep
+/docker/base/*
+!/docker/base/.gitkeep
+*.sql
